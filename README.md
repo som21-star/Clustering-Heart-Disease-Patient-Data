@@ -1,0 +1,2 @@
+# Clustering-Heart-Disease-Patient-Data
+Experiment with clustering algorithms to help doctors inform treatment for heart disease patients. This project investigated whether doctors might be able to group together patients to target treatments using common unsupervised learning techniques. This project I used k-means and hierarchical clustering algorithms. The dataset for this project contains characteristics of patients diagnosed with heart disease.
